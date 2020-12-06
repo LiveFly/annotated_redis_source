@@ -13,6 +13,9 @@
 
 have fun!
 
-huangz
-2013.3.5 
-(last updated at 2013.3.9)
+| huangz
+| 2013.3.5 
+
+----
+
+另有 Redis 3.0 源码注释提供： https://github.com/huangz1990/redis-3.0-annotated
